@@ -1,17 +1,6 @@
 # Tuan
-Ngoc Tuan
+Ngoc Tuan Hi
 Ba Phuc
 Minh Quang
 Tien Anh
 Chi Cuong
-<<<<<<< HEAD
-
-
-
-
-
-
-todo
-=======
-Tiến Anh chơi đá hả
->>>>>>> master
