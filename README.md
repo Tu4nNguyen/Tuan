@@ -4,6 +4,7 @@ Ba Phuc
 Minh Quang
 Tien Anh
 Chi Cuong
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,6 @@ Chi Cuong
 
 
 todo
+=======
+Tiến Anh chơi đá hả
+>>>>>>> master
